@@ -1,0 +1,16 @@
+h1 {background-color: #1d1d1d; color: #c4ff4f;}
+
+.links {background-color: #c4ff4f; color: #1d1d1d;}
+
+.final {
+    height: 500px;
+    width: auto;
+}
+
+p {background-color: #1d1d1d; color: white;}
+
+h3 {background-color: orange; color: #1d1d1d;}
+
+ul, ol {background-color: brown;}
+
+li {background-color: brown; color: #c4ff4f;}
